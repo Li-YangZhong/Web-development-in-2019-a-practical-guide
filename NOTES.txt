@@ -8,3 +8,15 @@ NPM or Yarn for installing packages
 
 //
 Glup and Grunt are task runners
+
+// 
+Front-End Framework:
+React/Vue.js/Angular
+//
+
+//
+Server Side Framework
+Node.js Express, Koa, Adonis
+Python Django, Flask
+PHP Laravel, Symfony
+C# ASP.NET
