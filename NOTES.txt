@@ -1,0 +1,10 @@
+Web development in 2019¡ª a practical guide
+
+//
+https://parceljs.org/   and webpack is for buldling modules.
+
+//
+NPM or Yarn for installing packages
+
+//
+Glup and Grunt are task runners
